@@ -1,3 +1,3 @@
 # Curso-em-Video
 
-<h1>Cursos do <strong>Curso em video</strong></h1>
+<p>Cursos do <b>Curso em video</b></p>
